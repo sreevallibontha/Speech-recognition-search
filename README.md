@@ -1,6 +1,7 @@
 # Speech-recognition-search
-This is a python code which is used to search the requirements in google and also video requirements in youtube.
-As we run the code intitillay we need to select weather you need to sreach in google or in youtube by telling with our voice..then leater it notify to speak you what to seacch then it will redirect to your browser and dispaly the results.
-To run this program we need to install some packages are listed below:
+Speech REcognition makes things to be done faster because words can be documented as soon as they are uttered. This is the era of Google Assistant,Amazon's Alexa and Apple's siri.
+To see the implementation of this tool which is dictating the world,we have developed a simple kinda of speech recognition tool using Python.As Python is  well versed with many inbulit packages,we have included those which could make our thought complacent.
+To implement we need to install the  packages as  listed below:
 1.Speech recognition
 2.Pyaudio
+Installing these ,we implement th tool which is reducing the massive transcription costs.
